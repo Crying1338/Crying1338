@@ -15,12 +15,12 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Crying1337&show_icons=true&theme=dark&bg_color=0F0F0F&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&border_color=00F7FF" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crying1337&layout=compact&theme=dark&bg_color=0F0F0F&title_color=00F7FF&text_color=FFFFFF&border_color=00F7FF" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Crying1338&show_icons=true&theme=dark&bg_color=0F0F0F&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&border_color=00F7FF" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crying1338&layout=compact&theme=dark&bg_color=0F0F0F&title_color=00F7FF&text_color=FFFFFF&border_color=00F7FF" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Crying1337&theme=dark&background=0F0F0F&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&border=00F7FF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Crying1338&theme=dark&background=0F0F0F&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&border=00F7FF" />
 </p>
 
 ---
