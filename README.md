@@ -26,7 +26,7 @@
 ---
 
 <p align="center">
-  <a href="https://Crying1338.store"><img src="https://img.shields.io/badge/Visit%20My%20Site-Crying1338.store-00F7FF?style=for-the-badge&logo=firefox&logoColor=black" /></a>
+  <a href="https://Crying1337.store"><img src="https://img.shields.io/badge/Visit%20My%20Site-Crying1337.store-00F7FF?style=for-the-badge&logo=firefox&logoColor=black" /></a>
 </p>
 
 <p align="center">
