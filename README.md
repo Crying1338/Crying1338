@@ -12,14 +12,6 @@
   <img src="https://img.shields.io/badge/Vibe-Normal-00F7FF?style=for-the-badge&logo=visualstudiocode&logoColor=black" />
 </p>
 
----
-
-## 🔥 Featured Repo
-
-[BloxZen Legacy](https://github.com/Crying1338/BloxZenLegacy)
-
----
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Crying1338&theme=dark&background=0F0F0F&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&border=00F7FF" />
 </p>
