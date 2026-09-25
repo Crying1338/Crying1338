@@ -14,13 +14,17 @@
 
 ---
 
+## 🔥 Featured Repo
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Crying1338&show_icons=true&theme=dark&bg_color=0F0F0F&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&border_color=00F7FF" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crying1338&layout=compact&theme=dark&bg_color=0F0F0F&title_color=00F7FF&text_color=FFFFFF&border_color=00F7FF" height="165" />
+  <a href="https://github.com/Crying1338/BloxZenLegacy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Crying1338&repo=BloxZenLegacy&theme=dark&bg_color=0F0F0F&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&border_color=00F7FF" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Crying1338&theme=dark&background=0F0F0F&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&border=00F7FF" />
+  <b>BloxZen Legacy</b> — Bloxd.io Cheat · 打不过ZEN<br/>
+  <i>Source By Crying1337 &gt;&lt;</i>
 </p>
 
 ---
